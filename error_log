@@ -1,0 +1,85 @@
+[01-Dec-2018 17:21:05 UTC] PHP Notice:  Undefined variable: pdo in /home/suntimestore/public_html/climalaboral/climalaboral.php on line 20
+[01-Dec-2018 17:21:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/suntimestore/public_html/climalaboral/climalaboral.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/suntimestore/public_html/climalaboral/climalaboral.php on line 20
+[01-Dec-2018 17:23:29 UTC] PHP Notice:  Undefined variable: pdo in /home/suntimestore/public_html/climalaboral/index.php on line 20
+[01-Dec-2018 17:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/suntimestore/public_html/climalaboral/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/suntimestore/public_html/climalaboral/index.php on line 20
+[01-Dec-2018 17:23:35 UTC] PHP Notice:  Undefined variable: pdo in /home/suntimestore/public_html/climalaboral/climalaboral.php on line 20
+[01-Dec-2018 17:23:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/suntimestore/public_html/climalaboral/climalaboral.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/suntimestore/public_html/climalaboral/climalaboral.php on line 20
+[01-Dec-2018 18:38:42 UTC] PHP Notice:  Undefined index: tienda in /home/suntimestore/public_html/climalaboral/datos_clima.php on line 14
+[01-Dec-2018 18:38:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'idTienda' cannot be null in /home/suntimestore/public_html/climalaboral/datos_clima.php:29
+Stack trace:
+#0 /home/suntimestore/public_html/climalaboral/datos_clima.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/suntimestore/public_html/climalaboral/datos_clima.php on line 29
+[01-Dec-2018 20:42:43 UTC] PHP Notice:  Undefined index: tienda in /home/suntimestore/public_html/climalaboral/datos_clima.php on line 14
+[01-Dec-2018 20:42:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'idTienda' cannot be null in /home/suntimestore/public_html/climalaboral/datos_clima.php:29
+Stack trace:
+#0 /home/suntimestore/public_html/climalaboral/datos_clima.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/suntimestore/public_html/climalaboral/datos_clima.php on line 29
+[01-Dec-2018 20:51:09 UTC] PHP Notice:  Undefined index: tienda in /home/suntimestore/public_html/climalaboral/datos_clima.php on line 14
+[01-Dec-2018 20:51:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'idTienda' cannot be null in /home/suntimestore/public_html/climalaboral/datos_clima.php:29
+Stack trace:
+#0 /home/suntimestore/public_html/climalaboral/datos_clima.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/suntimestore/public_html/climalaboral/datos_clima.php on line 29
+[03-Dec-2018 16:56:55 UTC] PHP Notice:  Undefined index: tienda in /home/suntimestore/public_html/climalaboral/datos_clima.php on line 14
+[03-Dec-2018 16:56:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'idTienda' cannot be null in /home/suntimestore/public_html/climalaboral/datos_clima.php:29
+Stack trace:
+#0 /home/suntimestore/public_html/climalaboral/datos_clima.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/suntimestore/public_html/climalaboral/datos_clima.php on line 29
+[04-Dec-2018 16:30:13 UTC] PHP Notice:  Undefined index: tienda in /home/suntimestore/public_html/climalaboral/datos_clima.php on line 14
+[04-Dec-2018 16:30:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'idTienda' cannot be null in /home/suntimestore/public_html/climalaboral/datos_clima.php:29
+Stack trace:
+#0 /home/suntimestore/public_html/climalaboral/datos_clima.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/suntimestore/public_html/climalaboral/datos_clima.php on line 29
+[04-Dec-2018 16:45:35 UTC] PHP Notice:  Undefined variable: pdo in /home/suntimestore/public_html/climalaboral/datos_clima.php on line 27
+[04-Dec-2018 16:45:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/suntimestore/public_html/climalaboral/datos_clima.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/suntimestore/public_html/climalaboral/datos_clima.php on line 27
+[04-Dec-2018 16:45:44 UTC] PHP Notice:  Undefined variable: pdo in /home/suntimestore/public_html/climalaboral/datos_clima.php on line 27
+[04-Dec-2018 16:45:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/suntimestore/public_html/climalaboral/datos_clima.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/suntimestore/public_html/climalaboral/datos_clima.php on line 27
+[04-Dec-2018 23:12:36 UTC] PHP Notice:  Undefined index: tienda in /home/suntimestore/public_html/climalaboral/datos_clima.php on line 14
+[04-Dec-2018 23:12:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'idTienda' cannot be null in /home/suntimestore/public_html/climalaboral/datos_clima.php:29
+Stack trace:
+#0 /home/suntimestore/public_html/climalaboral/datos_clima.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/suntimestore/public_html/climalaboral/datos_clima.php on line 29
+[06-Dec-2018 22:29:50 UTC] PHP Notice:  Undefined index: tienda in /home/suntimestore/public_html/climalaboral/datos_clima.php on line 14
+[06-Dec-2018 22:29:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'idTienda' cannot be null in /home/suntimestore/public_html/climalaboral/datos_clima.php:29
+Stack trace:
+#0 /home/suntimestore/public_html/climalaboral/datos_clima.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/suntimestore/public_html/climalaboral/datos_clima.php on line 29
+[06-Dec-2018 22:32:54 UTC] PHP Notice:  Undefined index: tienda in /home/suntimestore/public_html/climalaboral/datos_clima.php on line 14
+[06-Dec-2018 22:32:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'idTienda' cannot be null in /home/suntimestore/public_html/climalaboral/datos_clima.php:29
+Stack trace:
+#0 /home/suntimestore/public_html/climalaboral/datos_clima.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/suntimestore/public_html/climalaboral/datos_clima.php on line 29
+[06-Dec-2018 22:33:20 UTC] PHP Notice:  Undefined index: tienda in /home/suntimestore/public_html/climalaboral/datos_clima.php on line 14
+[06-Dec-2018 22:33:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'idTienda' cannot be null in /home/suntimestore/public_html/climalaboral/datos_clima.php:29
+Stack trace:
+#0 /home/suntimestore/public_html/climalaboral/datos_clima.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/suntimestore/public_html/climalaboral/datos_clima.php on line 29
+[06-Dec-2018 22:34:00 UTC] PHP Notice:  Undefined index: tienda in /home/suntimestore/public_html/climalaboral/datos_clima.php on line 14
+[06-Dec-2018 22:34:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'idTienda' cannot be null in /home/suntimestore/public_html/climalaboral/datos_clima.php:29
+Stack trace:
+#0 /home/suntimestore/public_html/climalaboral/datos_clima.php(29): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/suntimestore/public_html/climalaboral/datos_clima.php on line 29
